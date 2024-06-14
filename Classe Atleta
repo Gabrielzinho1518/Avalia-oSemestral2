@@ -1,4 +1,7 @@
+package Avaliacao;
+
 import java.util.Objects;
+import java.util.Scanner;
 
 public class Atleta {
     String fone; //chave primária
